@@ -36,6 +36,5 @@ if Svar.lower() == "kong harald":
 else:
     print("Feil!")
 
-print("Du fikk", Score,"poeng, av totalt 4 mulige poeng.")
-
+print("Du fikk", Score,"av totalt 4 mulige poeng.")
 print("Du svarte riktig på", (Score/4*100),"%" " av oppgavene!")
